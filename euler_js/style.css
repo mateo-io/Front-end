@@ -1,0 +1,15 @@
+#header {
+	background-color: blue;
+	color: white;
+	height: 120px;
+}
+
+.one{    /* Big block as well as three (which does not exist)    */
+
+	height: 300px; width: 300px;
+}
+
+.two{   /* Input box   */
+
+
+}

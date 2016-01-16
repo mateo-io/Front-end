@@ -1,0 +1,153 @@
+#logo{
+	display: block;
+	margin: 198px auto 0;
+
+	
+}
+
+p{
+	font-family: arial, sans-serif;
+	font-size: 16px;
+}
+
+#search{
+	position: relative;
+	border: 1px solid #D9D9D9;
+	height: 38px; width: 586px;
+	margin: 30px auto;
+	margin-bottom: 0px;
+	left: 9px;
+	
+}
+
+
+#form{
+	height: 36px;
+	width: 577px;
+	border: none;
+	padding: 2px 0px 0px 9px;
+	font-size: 13px;
+	
+}
+
+.uList ul li  {
+	display: inline;
+	color: rgba(0, 0, 0, 0.75);
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	line-height: 24px;
+	padding-right: 15px;
+
+}
+
+.uList{
+	position: absolute;
+	right: 20px;
+	top: 0px;
+
+	
+
+}
+.uList ul .apps {
+	background-image: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+	background-size: 528px 68px;
+	background-position: -132px -38px;
+	height: 25px;
+	width: 34px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+.uList ul .signin{
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	background-color: #4387fd;
+	color: #fff;
+	padding: 0 12px;
+	line-height: 28px;
+	width: 50px;
+	display: inline-block;
+	text-align: left;
+	margin-right: 10px;
+}
+
+#buttons{		
+
+	padding-top: 5px;
+	margin: 0 auto;
+	width: 571px;   /*  126 and 144 each */
+	text-align: center;
+	right: 18px;
+	position: relative;
+
+}
+
+#buttons ul li{
+
+	display: inline-block;
+	padding: 3px 16px 0 16px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color:#757575;
+	background-color: #f2f2f2;
+	border: 2px solid #f2f2f2;
+	height: 29px;
+	line-height: 27px;
+	margin: 11px 2px;
+
+}
+
+#footer{
+
+	position: relative;
+	height: 40px;
+	bottom:0px;
+	position: absolute;
+	width: 100%;
+	background-color: #f2f2f2;
+	left: 0;
+	
+
+}
+
+
+#foot1{
+	
+	position: absolute;
+	bottom: 0px;
+	left: -20px;
+	
+
+/* HEIHGT INTERESTING * !!!-- SEE HOT IT WORKS <<<!!*/
+	
+	
+}	
+
+#foot2{
+	
+	
+	position: absolute;
+	right: 10px;
+	bottom: 0px;
+	
+	
+}
+
+#footer span ul {
+	margin:10px;
+}
+
+
+#footer span ul li{
+
+	display: inline-block;
+	color: rgba(0, 0, 0, 0.75);
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	line-height: 0px;
+	padding-right: 20px;
+
+}
+
